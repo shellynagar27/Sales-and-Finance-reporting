@@ -1,7 +1,7 @@
-# AtliQ Hardware Sales and Finance Report
+# Sales and Finance Reporting
 [linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7222964395721543680/)
 ## Objective
-Analyzed the sales and financial performance of AtilQ Hardware, a leading computer hardware manufacturer, over the years 2019, 2020, and 2021. The goal is to empower monitoring and evaluation of sales activities and performance, and evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
+Analyzed the sales and financial performance of AtilQ Hardware (Imaginary Company), a leading computer hardware manufacturer, over the years 2019, 2020, and 2021. The goal is to empower monitoring and evaluation of sales activities and performance, and evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
 ## Goal
 The goal is to:
 1. Identify sales patterns and track key performance indicators (KPIs).
